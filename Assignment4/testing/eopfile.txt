@@ -1,0 +1,10 @@
+Enter an integer: 3 is odd
+Enter an integer: 55 is odd
+Enter an integer: 66 is even
+Enter an integer: 109 is odd
+Enter an integer: 2 is even
+Enter an integer: 12222 is even
+Enter an integer: 53 is odd
+Enter an integer: 23 is odd
+Enter an integer: 7777440 is even
+Enter an integer: 91 is odd
