@@ -1,0 +1,5 @@
+[0:00-0:20] : Hi I am Dr. Matholic and today we are going to learn probability for engineers
+
+[0:20-0:50] : "Introductory Music Playing"
+
+[0:50-1:50] : So before beginning there are a few basic terms which you are expected to know like sample space,axiomatic approach to probability,etc before we move on to advanced topics. Also Here and there a few tips and tricks on R software will be taught
